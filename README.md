@@ -7,3 +7,9 @@ Here, I showcase my projects that highlight my skills in data analysis, problem-
 - Python
 - SQL
 - Tableau
+
+#### Python
+
+#### SQL
+
+#### Tableau
