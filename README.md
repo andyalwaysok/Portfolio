@@ -26,6 +26,7 @@ Here, I showcase my projects that highlight my skills in data analysis, problem-
 |---|---|---|
 |🏢 [Data Analysis for Start-up Comapny](https://github.com/andyalwaysok/Kickstarter-Campaign/blob/main/README.md)|Data Analysis|Pull data that will help the team understand what might influence the success of a campaign|
 |🔎 [Customers and Products Analysis](https://github.com/andyalwaysok/Customers-and-Products-Analysis/blob/main/README.md)|Sales Analysis|Sales analysis to answer sales and marketing questions|
+|🥩 [Data Analysis for Northwind Traders](https://github.com/andyalwaysok/DataQuest_NorthwindTraders_Analysis/blob/main/SQL%20Window%20Functions%20for%20Northwind%20Traders.ipynb)|Data Analysis|Find insights to make strategic decisions in several aspects of the business|
 
 #### Tableau
 | Project Link | Project Description | Dashboard Link|  
