@@ -24,7 +24,7 @@ Here, I showcase my projects that highlight my skills in data analysis, problem-
 #### SQL
 | Project Link | Area | Project Description |  
 |---|---|---|
-||||
+|🏢 [Data Analysis for Start-up Comapny](https://github.com/andyalwaysok/Kickstarter-Campaign/blob/main/README.md)|Data Analysis|Pull data that will help the team understand what might influence the success of a campaign|
 
 #### Tableau
 | Project Link | Project Description | Dashboard Link|  
