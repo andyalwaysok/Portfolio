@@ -25,7 +25,7 @@ Here, I showcase my projects that highlight my skills in data analysis, problem-
 | Project Link | Area | Project Description |  
 |---|---|---|
 |🏢 [Data Analysis for Start-up Comapny](https://github.com/andyalwaysok/Kickstarter-Campaign/blob/main/README.md)|Data Analysis|Pull data that will help the team understand what might influence the success of a campaign|
-|🔎 [Customers and Products Analysis](https://github.com/andyalwaysok/Customers-and-Products-Analysis/edit/main/README.md)|Sales Analysis|Sales analysis to answer sales and marketing questions|
+|🔎 [Customers and Products Analysis](https://github.com/andyalwaysok/Customers-and-Products-Analysis/blob/main/README.md)|Sales Analysis|Sales analysis to answer sales and marketing questions|
 
 #### Tableau
 | Project Link | Project Description | Dashboard Link|  
