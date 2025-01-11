@@ -4,9 +4,9 @@ Welcome to my Portfolio!
 Here, I showcase my projects that highlight my skills in data analysis, problem-solving, and creating actionable insights
 
 ### 📚 Table of Contents
-- Python
-- SQL
-- Tableau
+- [Python](#python)
+- [SQL](#sql)
+- [Tableau](#tableau)
 
 #### Python
 | Project Link | Area | Project Description | Libraries |    
