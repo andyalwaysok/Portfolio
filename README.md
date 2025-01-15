@@ -31,5 +31,5 @@ Here, I showcase my projects that highlight my skills in data analysis, problem-
 #### Tableau
 | Project Link | Project Description | Dashboard Link|  
 |---|---|---|
-|🦈 [Data Analysis of Shark Attack](https://github.com/andyalwaysok/Shark-Attack-Tableau/blob/main/README.md)|Cleaned and transformed data on Shark Attack Dataset. Visualized key insights using Tableau|https://public.tableau.com/app/profile/sung.yoon7327/viz/DashboardofSharkAttacks/SharkAttacksDashboard|
+|🦈 [Data Analysis of Shark Attack](https://github.com/andyalwaysok/Shark-Attack-Tableau/blob/main/README.md)|Cleaned and transformed data on Shark Attack Dataset. Visualized key insights using Tableau|[Dashboard](https://public.tableau.com/app/profile/sung.yoon7327/viz/DashboardofSharkAttacks/SharkAttacksDashboard)|
 
